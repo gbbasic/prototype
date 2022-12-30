@@ -1,2 +1,3 @@
-# prototype
-Prototype of the BASIC compiler for GB project.
+# GB BASIC
+
+**A BASIC compiler which generates GameBoy compatible ROM.**

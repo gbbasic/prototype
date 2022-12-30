@@ -1,0 +1,11 @@
+{
+  "fonts": [
+    {
+      "path": "../fonts/LanaPixel.ttf",
+      "size": 13,
+      "offset": -2,
+      "two_bits_per_pixel": false
+    }
+  ],
+  "arbitrary": null
+}
